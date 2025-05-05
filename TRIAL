@@ -1,112 +1,545 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/evnAl5lLDDh_3k1KavYaCznzx3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260444/f67ce6.jpg" group-title="Event By Vidio", Persik Kediri vs Persebaya Surabaya - BRI Liga 1 | 14:58 05 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17624
-https://elitestreamid.xyz/scripts/vidio/dash.php?id=17624
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Brighton W vs Arsenal W (00:00 191958 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Main_Event
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg" group-title="Event By Vidio", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 | 18:30 05 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17850
-https://elitestreamid.xyz/scripts/vidio/dash.php?id=17850
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Brighton W vs Arsenal W (00:00 191958 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Main_Event_BU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg" group-title="Event By Vidio", Persis vs Arema FC - BRI Liga 1 | 19:00 05 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17624
-https://elitestreamid.xyz/scripts/vidio/dash.php?id=17624
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Brighton W vs Arsenal W (00:00 191958 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Football_Live_TV
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NosOGgExdpwgtKKZ0obpJfO-iOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262486/42c029.jpg" group-title="Event By Vidio", Genoa vs Milan - Serie A | 01:45 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17938
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17938
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Brighton W vs Arsenal W (00:00 191958 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Football_BU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-OGHZDpQUxNxSThCAZlmNDJRZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262341/b761be.jpg" group-title="Event By Vidio", Crystal Palace vs Nott'm Forest - Premier League | 02:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=9182
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=9182
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Serie A-Genoa vs AC Milan [03:45 191114 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eeF7hC8CgEYAM6QhCiDIivfQkEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262342/07c620.jpg" group-title="Event By Vidio", Girona vs Mallorca - LaLiga | 02:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Crystal Palace vs Nottingham Forest (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Premier_League
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg" group-title="Event By Vidio", Yonex Taipei Open 2025 - Qualifiers + R32 (Court 1) | 08:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18249
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Crystal Palace vs Nottingham Forest (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Premier_League_BU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XCu8O1SREOthPwMrB96J8nAwn28=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-taipei-open-2025-qualifiers-r32-court-2-571cc2.jpg" group-title="Event By Vidio", Yonex Taipei Open 2025 - Qualifiers + R32 (Court 2) | 08:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18250
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18250
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Crystal Palace vs Nottingham Forest (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Main_Event
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c2dYU_xwh8q8n2aKCkVRwlv7HBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-taipei-open-2025-qualifiers-r32-court-3-677d56.jpg" group-title="Event By Vidio", Yonex Taipei Open 2025 - Qualifiers + R32 (Court 3) | 08:10 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18252
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18252
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Crystal Palace vs Nottingham Forest (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Sky_Sports_Main_Event_BU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IWKlXba31VIupehumPto2SK75UQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-taipei-open-2025-qualifiers-r32-court-4-0228a9.jpg" group-title="Event By Vidio", Yonex Taipei Open 2025 - Qualifiers + R32 (Court 4) | 08:10 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18253
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18253
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Girona vs Mallorca (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=Premier_Sports_1
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QW6dADWZy4q19HcCzvoFE9_QHWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262506/70fec6.jpg" group-title="Event By Vidio", Conference Semifinals - Game 1: Denver Nuggets vs Oklahoma City Thunder - NBA | 08:30 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6786
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Girona vs Mallorca (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=La_Liga_TV_Live_TV
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E-RAHT-vDRCZPOyLkOGhbOdfSeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/aea1de.jpg" group-title="Event By Vidio", Semifinal: Inter vs Barcelona - UEFA Champions League | 01:40 07 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17883
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17883
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Girona vs Mallorca (04:00 191125 * 06-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=LA_LIGA_TV_BU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sbFJD7wHgOHjbmjSKmutDI5zYRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262529/45b397.jpg" group-title="Event By Vidio", Semifinal: PSG vs Arsenal - UEFA Champions League | 01:55 08 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6299
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6299
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-AVS vs Boavista [04:15 191135 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x3kuCoQcE3imARGIDpN2WcYCJx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262530/6e9ee1.jpg" group-title="Event By Vidio", Semifinal: Chelsea vs Djurgarden - UEFA Conference League | 01:55 09 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17875
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Vissel Kobe vs Cerezo Osaka [14:00 191541 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Avispa Fukuoka vs Kashima [14:00 191541 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Nagoya Grampus vs Fagiano Okayama [14:00 191541 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Urawa vs Gamba Osaka [14:00 191541 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Tokyo Verdy vs Yokohama FC [16:00 191625 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Kashiwa Reysol vs Shimizu S-pulse [16:00 191625 * 06-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Champions League-Inter vs Barcelona [04:00 191125 * 07-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Shonan Bellmare vs Sanfrecce Hiroshima [19:00 191750 * 07-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Machida Zelvia vs Kyoto Sanga [19:00 191750 * 07-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al-Raed vs Al-Hilal Saudi FC [01:15 191010 * 08-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al-Ahli Jeddah vs Al Taawon [01:25 191017 * 08-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al-Nassr vs Al-Ittihad FC [03:00 191083 * 08-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Champions League-Paris Saint Germain vs Arsenal (04:00 191125 * 08-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=TNT_Sports_1
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Champions League-Paris Saint Germain vs Arsenal (04:00 191125 * 08-05-2025)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=TNT_Sports_1_BU
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Europa League-Manchester United vs Athletic Club [04:00 191125 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Europa League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Europa League-Bodo/Glimt vs Tottenham [04:00 191125 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Europa Conference League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Europa Conference League-Fiorentina vs Real Betis [04:00 191125 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Europa Conference League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", UEFA Europa Conference League-Chelsea vs Djurgardens IF [04:00 191125 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Championship-Bristol City vs Sheffield Utd [04:00 191125 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="King&#039;s Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", King&#039;s Cup-Al-Ittihad FC vs Al-Qadisiyah FC [07:00 191250 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="A-League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", A-League-Western United vs Adelaide United [07:00 191250 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="A-League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", A-League-Western Sydney Wanderers vs Melbourne Victory [07:00 191250 * 09-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Eredivisie-Willem II vs Heracles [03:00 191083 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-VfL Wolfsburg vs 1899 Hoffenheim [03:30 191104 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Serie A-AC Milan vs Bologna [03:45 191114 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Las Palmas vs Rayo Vallecano [04:00 191125 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Championship-Coventry vs Sunderland [04:00 191125 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="A-League Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", A-League Women-Melbourne Victory W vs Adelaide United W [07:00 191250 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="A-League Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", A-League Women-Melbourne City W vs Central Coast Mariners W [07:00 191250 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="NWSL Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", NWSL Women-Racing Louisville W vs NJ/NY Gotham FC W [09:00 191333 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="NWSL Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", NWSL Women-Angel City W vs Utah Royals W [11:30 191437 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Yokohama FC vs Avispa Fukuoka [14:00 191541 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-FC Tokyo vs Vissel Kobe [15:00 191583 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="J1 League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", J1 League-Kashiwa Reysol vs Fagiano Okayama [16:00 191625 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Arsenal W vs Manchester United W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Chelsea W vs Liverpool W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Manchester City W vs Crystal Palace W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Aston Villa W vs Brighton W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Everton W vs Tottenham Hotspur W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="FA WSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", FA WSL-Leicester City WFC vs West Ham W [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="League One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", League One-Leyton Orient vs Stockport County [20:30 191812 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Valencia vs Getafe [21:00 191833 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Serie A-Como vs Cagliari [22:00 191875 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-Werder Bremen vs RB Leipzig [22:30 191895 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-Holstein Kiel vs SC Freiburg [22:30 191895 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-Vfl Bochum vs FSV Mainz 05 [22:30 191895 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-Union Berlin vs FC Heidenheim [22:30 191895 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Fulham vs Everton [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Ipswich vs Brentford [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Wolves vs Brighton [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Southampton vs Manchester City [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiership" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premiership-Celtic vs Hibernian [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiership" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premiership-Kilmarnock vs Dundee [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiership" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premiership-Dundee Utd vs ST Mirren [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiership" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premiership-Heart OF Midlothian vs Motherwell [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiership" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premiership-ST Johnstone vs Ross County [23:00 191916 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Celta Vigo vs Sevilla [23:15 191927 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Eredivisie-Waalwijk vs Heerenveen [23:30 191937 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-Nacional vs Rio Ave [23:30 191937 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-Santa Clara vs Famalicao [23:30 191937 * 10-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Serie A-Lazio vs Juventus [01:00 191000 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al Kholood vs Al-Ettifaq [01:20 191013 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al Wehda Club vs Al-Fateh [01:25 191017 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Premier League-Bournemouth vs Aston Villa [01:30 191020 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Bundesliga-Bayern Munich vs Borussia Monchengladbach [01:30 191020 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Girona vs Villarreal [01:30 191020 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Mallorca vs Valladolid [01:30 191020 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Eredivisie-Fortuna Sittard vs NAC Breda [01:45 191031 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="NWSL Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", NWSL Women-Chicago Red Stars W vs Washington Spirit W [01:50 191034 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-Benfica vs Sporting CP [02:00 191041 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Pro League-Al Khaleej Saihat vs Al Riyadh [03:00 191083 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Chicago Fire vs Atlanta United FC [03:30 191104 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Serie A-Empoli vs Parma [03:45 191114 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-LE Havre vs Marseille [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Angers vs Strasbourg [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Montpellier vs Paris Saint Germain [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Monaco vs Lyon [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Reims vs Saint Etienne [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Toulouse vs Lens [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Stade Brestois 29 vs Lille [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Auxerre vs Nantes [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Ligue 1-Rennes vs Nice [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Eredivisie-Almere City FC vs Sparta Rotterdam [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", La Liga-Atletico Madrid vs Real Sociedad [04:00 191125 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-GIL Vicente vs Arouca [04:30 191145 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Primeira Liga-Casa Pia vs SC Braga [04:30 191145 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Toronto FC vs DC United [05:30 191187 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Minnesota United FC vs Inter Miami [05:30 191187 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Orlando City SC vs New England Revolution [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-New York Red Bulls vs Los Angeles Galaxy [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-New York City FC vs Montreal Impact [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-FC Cincinnati vs Austin [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Philadelphia Union vs Columbus Crew [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="NWSL Women" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", NWSL Women-North Carolina Courage W vs Orlando Pride W [08:30 191312 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-FC Dallas vs Real Salt Lake [09:30 191354 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
+
+#EXTINF:-1 tvg-id="" tvg-name="Major League Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaAHA_LqQngmGOC2-B6DHvhrgbmxAXxwulokO59c30VZ2k61z2hK9Hpw&s=10" group-title="Event By Beesports", Major League Soccer-Houston Dynamo vs Seattle Sounders [09:30 191354 * 11-05-2025]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"Origin": "https://p.m82xg4z0cdbz7.com", "Referer": "https://p.m82xg4z0cdbz7.com/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"}
+https://elitestreamid.xyz/scripts/beesport.php/index.m3u8?id=
