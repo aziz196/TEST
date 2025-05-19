@@ -1,50 +1,14 @@
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Star Gold 2
-http://xtv.ooo:8080/danyear12/am809100/106133
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="&#11088;SPORTS CHANNEL",ASTRO BADMINTONᴴᴰ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",& Pictures
-http://xtv.ooo:8080/danyear12/am809100/221260
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="&#11088;SPORTS CHANNEL",ASTRO BADMINTONᴴᴰ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+http://hotz.vip:2082/GM29/Glidermedia01/978
 
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",& Pictures HD
-http://xtv.ooo:8080/danyear12/am809100/66181
-
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Zee Cinema USA
-http://xtv.ooo:8080/danyear12/am809100/206268
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Oscar Movies
-http://xtv.ooo:8080/danyear12/am809100/66185
-
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",STAR GOLD ROMANCE
-http://xtv.ooo:8080/danyear12/am809100/66186
-
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",COLORS CINEPLEX
-http://xtv.ooo:8080/danyear12/am809100/104191
-
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",SONY MAX 2
-http://xtv.ooo:8080/danyear12/am809100/66189
-
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Zee Anmol Cinema
-http://xtv.ooo:8080/danyear12/am809100/66187
-
-#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE CLASSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",ZEE CLASSIC
-http://xtv.ooo:8080/danyear12/am809100/66201
-
-#EXTINF:-1 tvg-id="" tvg-name="IN | Maha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Maha Movies
-http://xtv.ooo:8080/danyear12/am809100/104206
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: WOW CINEMA ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",WOW CINEMA ONE
-http://xtv.ooo:8080/danyear12/am809100/106132
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: MBC BOLLYWOOD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",MBC BOLLYWOOD*
-http://xtv.ooo:8080/danyear12/am809100/112984
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Cinema SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Zee Cinema SD
-http://xtv.ooo:8080/danyear12/am809100/206271
-
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Star Movies FHD
-http://xtv.ooo:8080/danyear12/am809100/66213
-
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",Sony Pix FHD
-http://xtv.ooo:8080/danyear12/am809100/66224
-
-#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSqiF6jh57DKjuwOLOotAlqOizYBj_cH4hLvrbSyQ2yDVK5Q0RWkhpqUX&s=10" group-title="INDIAN | MOVIES",HBO HD
-http://xtv.ooo:8080/danyear12/am809100/66229
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 1" tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="&#11088;SPORTS CHANNEL",ASTRO BADMINTONᴴᴰ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://link.zozotv.xyz:443/usez37/zxy921/155
