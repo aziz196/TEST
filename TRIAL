@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="- LOKAL ID -",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; free%40demo) ExoPlayerLib/2.15.1
-http://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC6puIHBXxuuKdG4Xl8j80UI
-
-#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="TRANS TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="- LOKAL ID -",TRANS TV
-http://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC8dQKm64GbCG5Z_FjCLYcRA
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; demo) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+http://home-tv.pw:80/play/_B2b-87i9NH-L4O6R3NBC6puIHBXxuuKdG4Xl8j80UI
+http://home-tv.pw:443/play/_B2b-87i9NH-L4O6R3NBC6puIHBXxuuKdG4Xl8j80UI
