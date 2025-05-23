@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="- LOKAL ID -",TRANS 7
-http://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC6puIHBXxuuKdG4Xl8j80UI
+https://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC6puIHBXxuuKdG4Xl8j80UI
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="TRANS TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="- LOKAL ID -",TRANS TV
-http://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC8dQKm64GbCG5Z_FjCLYcRA
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC8dQKm64GbCG5Z_FjCLYcRA
 #EXTINF:-1 xui-id="5" tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="- LOKAL ID -",INDOSIAR
 http://home-tv.online:80/play/_B2b-87i9NH-L4O6R3NBC-kUe6kOb898nJzQbgIbxg8
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="SCTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="- LOKAL ID -",SCTV
