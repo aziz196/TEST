@@ -1,9 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 xui-id="306" tvg-id="" tvg-name="SKY F1 UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="✔️ LIVE F 1",SKY F1 UK
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 http://killer.play-gachor.online/live/free%40demo/gunakanbijak/306.ts
 
 #EXTINF:-1 xui-id="348" tvg-id="" tvg-name="SKY F1 ITALIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkbsiYEp-Z272bUfaFnXSJL9JzeX_rDJHusFQbiimcLHg.png" group-title="✔️ LIVE F 1",SKY F1 ITALIA
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 http://killer.play-gachor.online/live/free%40demo/gunakanbijak/348.ts
 
 #EXTINF:-1 xui-id="310" tvg-id="" tvg-name="SKY F1 DE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="✔️ LIVE F 1",SKY F1 DE
