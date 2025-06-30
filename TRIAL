@@ -14,3 +14,13 @@ https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play?id=17938&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+
+                                           
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO BITTER",bitter Champions TV 1 drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/drm.php?id=17938&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+
